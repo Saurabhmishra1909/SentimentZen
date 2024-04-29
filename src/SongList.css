@@ -1,14 +1,27 @@
-.main{
-    color: #ddd;
+.main {
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
-    border: 1px solid #ddd;
-    padding: 10px;
+    color: #fff;
+    border: 1px solid #ffff;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; /* Add transition for smooth effect */
+    box-shadow: 0 10px 12px rgba(0, 0, 0, 0.2); /* Add shadow */
 }
-.image{
+
+.main:hover {
+    background-color: #454545;
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.2); /* Adjust shadow on hover */
+}
+
+.image {
     flex: 0 0 100px;
     margin-right: 20px;
     display: block;
     max-width: 100px;
+    object-fit:cover;
 }
