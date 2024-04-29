@@ -1,0 +1,947 @@
+[
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic Fiction",
+        "emotion": "admiration"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/330px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic Fiction",
+        "emotion": "admiration"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Kite_runner.jpg",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "Historical Fiction",
+        "emotion": "admiration"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/330px-PrideAndPrejudiceTitlePage.jpg",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Classic Fiction",
+        "emotion": "admiration"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/1984_Events_Collage.jpg/450px-1984_Events_Collage.jpg",
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "emotion": "admiration"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0a/Goodomenscover.jpg",
+        "title": "Good Omens",
+        "author": "Neil Gaiman, Terry Pratchett",
+        "genre": "Fantasy, Humor",
+        "emotion": "amusement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "genre": "Science Fiction, Humor",
+        "emotion": "amusement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/17/BridgetJonesDiaryMoviePoster.jpg",
+        "title": "Bridget Jones's Diary",
+        "author": "Helen Fielding",
+        "genre": "Comedy, Romance",
+        "emotion": "amusement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/MeTalkPrettyOneDayCover.JPG",
+        "title": "Me Talk Pretty One Day",
+        "author": "David Sedaris",
+        "genre": "Memoir, Humor",
+        "emotion": "amusement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7c/Bossypants_Cover_%28Tina_Fey%29_-_200px.jpeg",
+        "title": "Bossypants",
+        "author": "Tina Fey",
+        "genre": "Autobiography, Humor",
+        "emotion": "amusement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/60/ColorPurple.jpg",
+        "title": "The Color Purple",
+        "author": "Alice Walker",
+        "genre": "Historical Fiction",
+        "emotion": "anger"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Clockwork_orange.jpg",
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "genre": "Science Fiction",
+        "emotion": "anger"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Thegirlwiththedragontattoo.jpg",
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "genre": "Mystery, Thriller",
+        "emotion": "anger"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/18/TheHandmaidsTale%281stEd%29.jpg",
+        "title": "The Handmaid's Tale",
+        "author": "Margaret Atwood",
+        "genre": "Dystopian Fiction",
+        "emotion": "anger"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/American_Psycho_by_Bret_Easton_Ellis_first_US_paperback_edition_1991.jpg",
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "genre": "Satire, Horror",
+        "emotion": "anger"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/99/Catch22.jpg",
+        "title": "Catch-22",
+        "author": "Joseph Heller",
+        "genre": "Satire",
+        "emotion": "annoyance"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/330px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-Age Fiction",
+        "emotion": "annoyance"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/JohnnyCashGoneGirl.jpg",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Mystery, Thriller",
+        "emotion": "annoyance"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/The-road.jpg/330px-The-road.jpg",
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "genre": "Post-Apocalyptic Fiction",
+        "emotion": "annoyance"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Fabritius-vink.jpg/405px-Fabritius-vink.jpg",
+        "title": "The Goldfinch",
+        "author": "Donna Tartt",
+        "genre": "Literary Fiction",
+        "emotion": "annoyance"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "emotion": "approval"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "emotion": "approval"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheAlchemist.jpg/330px-TheAlchemist.jpg",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Philosophical Fiction",
+        "emotion": "approval"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg",
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Dystopian Fiction",
+        "emotion": "approval"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Fault_in_Our_Stars.jpg",
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "genre": "Young Adult, Romance",
+        "emotion": "approval"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/79/The_Giving_Tree.jpg",
+        "title": "The Giving Tree",
+        "author": "Shel Silverstein",
+        "genre": "Children's Literature",
+        "emotion": "caring"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/Wonder_Robert_J_Sawyer_novel_cover.png",
+        "title": "Wonder",
+        "author": "R.J. Palacio",
+        "genre": "Children's Fiction",
+        "emotion": "caring"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/3d/A_Man_Called_Ove_%28novel%29.jpg",
+        "title": "A Man Called Ove",
+        "author": "Fredrik Backman",
+        "genre": "Fiction, Humor",
+        "emotion": "caring"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Montgomery_Anne_of_Green_Gables.jpg/330px-Montgomery_Anne_of_Green_Gables.jpg",
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "genre": "Children's Literature",
+        "emotion": "caring"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fe/CharlotteWeb.png",
+        "title": "Charlotte's Web",
+        "author": "E.B. White",
+        "genre": "Children's Literature",
+        "emotion": "caring"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/de/House_of_leaves.jpg",
+        "title": "House of Leaves",
+        "author": "Mark Z. Danielewski",
+        "genre": "Experimental Fiction",
+        "emotion": "confusion"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/20/Cloud_Atlas_Poster.jpg",
+        "title": "Cloud Atlas",
+        "author": "David Mitchell",
+        "genre": "Science Fiction, Postmodernism",
+        "emotion": "confusion"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Crying_of_Lot_49_%281965_1st_ed_cover%29.jpg/330px-The_Crying_of_Lot_49_%281965_1st_ed_cover%29.jpg",
+        "title": "The Crying of Lot 49",
+        "author": "Thomas Pynchon",
+        "genre": "Postmodern Fiction",
+        "emotion": "confusion"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4f/Infinite_jest_cover.jpg",
+        "title": "Infinite Jest",
+        "author": "David Foster Wallace",
+        "genre": "Postmodern Fiction",
+        "emotion": "confusion"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Franz_Kafka_Die_Verwandlung_1916_Orig.-Pappband.jpg/330px-Franz_Kafka_Die_Verwandlung_1916_Orig.-Pappband.jpg",
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "genre": "Absurdist Fiction",
+        "emotion": "confusion"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/06/%E1%B8%B2itsur_toldot_ha-enoshut.jpg",
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "History, Anthropology",
+        "emotion": "curiosity"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e2/TheElegantUniverse.jpg",
+        "title": "The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",
+        "author": "Brian Greene",
+        "genre": "Physics, Science",
+        "emotion": "curiosity"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Thinking%2C_Fast_and_Slow.jpg",
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "genre": "Psychology",
+        "emotion": "curiosity"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/The_Immortal_Life_Henrietta_Lacks_%28cover%29.jpg",
+        "title": "The Immortal Life of Henrietta Lacks",
+        "author": "Rebecca Skloot",
+        "genre": "Science, Biography",
+        "emotion": "curiosity"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/63/Freakonomics.jpg",
+        "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+        "author": "Steven D. Levitt, Stephen J. Dubner",
+        "genre": "Economics, Nonfiction",
+        "emotion": "curiosity"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5e/50ShadesofGreyCoverArt.jpg",
+        "title": "Fifty Shades of Grey",
+        "author": "E.L. James",
+        "genre": "Romance, Erotica",
+        "emotion": "desire"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0b/Outlander-1991_1st_Edition_cover.jpg",
+        "title": "Outlander",
+        "author": "Diana Gabaldon",
+        "genre": "Historical Fiction, Romance",
+        "emotion": "desire"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/330px-PrideAndPrejudiceTitlePage.jpg",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Classic Fiction, Romance",
+        "emotion": "desire"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Call_Me_By_Your_Name%2C_2007_book_cover.jpg",
+        "title": "Call Me by Your Name",
+        "author": "André Aciman",
+        "genre": "Romance, LGBT",
+        "emotion": "desire"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Twilight_Saga_covers.png",
+        "title": "Twilight",
+        "author": "Stephenie Meyer",
+        "genre": "Fantasy, Romance",
+        "emotion": "desire"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/91/The_Casual_Vacancy.jpg",
+        "title": "The Casual Vacancy",
+        "author": "J.K. Rowling",
+        "genre": "Fiction",
+        "emotion": "disappointment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4e/US_cover_of_Go_Set_a_Watchman.jpg",
+        "title": "Go Set a Watchman",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "emotion": "disappointment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png",
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "genre": "Thriller, Mystery",
+        "emotion": "disappointment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Thegirlwiththedragontattoo.jpg",
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "genre": "Mystery, Thriller",
+        "emotion": "disappointment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Lovely_Bones_cover.jpg",
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "genre": "Fiction",
+        "emotion": "disappointment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b5/American_Psycho_by_Bret_Easton_Ellis_first_US_paperback_edition_1991.jpg",
+        "title": "American Psycho",
+        "author": "Bret Easton Ellis",
+        "genre": "Satire, Horror",
+        "emotion": "disgust"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/LordOfTheFliesBookCover.jpg",
+        "title": "Lord of the Flies",
+        "author": "William Golding",
+        "genre": "Allegorical Novel",
+        "emotion": "disgust"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Americanah_book_cover.jpg/330px-Americanah_book_cover.jpg",
+        "title": "Americanah",
+        "author": "Chimamanda Ngozi Adichie",
+        "genre": "Fiction",
+        "emotion": "disgust"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/23/Clockwork_orange.jpg",
+        "title": "A Clockwork Orange",
+        "author": "Anthony Burgess",
+        "genre": "Dystopian Fiction",
+        "emotion": "disgust"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Belljarfirstedition.jpg",
+        "title": "The Bell Jar",
+        "author": "Sylvia Plath",
+        "genre": "Semi-autobiographical Fiction",
+        "emotion": "disgust"
+    },
+    {
+        "image": "",
+        "title": "Bridget Jones's Diary",
+        "author": "Helen Fielding",
+        "genre": "Romantic Comedy",
+        "emotion": "embarrassment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/17/BridgetJonesDiaryMoviePoster.jpg",
+        "title": "Eleanor Oliphant Is Completely Fine",
+        "author": "Gail Honeyman",
+        "genre": "Contemporary Fiction",
+        "emotion": "embarrassment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/53/The_Rosie_Project.jpg",
+        "title": "The Rosie Project",
+        "author": "Graeme Simsion",
+        "genre": "Romantic Comedy",
+        "emotion": "embarrassment"
+    },
+    {
+        "image": "https://megcabot.com/wp-content/uploads/2022/08/9780063276765_EPB-193x300.jpg",
+        "title": "The Princess Diaries",
+        "author": "Meg Cabot",
+        "genre": "Young Adult, Romance",
+        "emotion": "embarrassment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bb/Less_%28Andrew_Sean_Greer%29.png",
+        "title": "Less",
+        "author": "Andrew Sean Greer",
+        "genre": "Satire, Fiction",
+        "emotion": "embarrassment"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg",
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery, Thriller",
+        "emotion": "excitement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "emotion": "excitement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Jurassic_Park_%28franchise_logo%29.png",
+        "title": "Jurassic Park",
+        "author": "Michael Crichton",
+        "genre": "Science Fiction, Thriller",
+        "emotion": "excitement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/39/The_Hunger_Games_cover.jpg",
+        "title": "The Hunger Games",
+        "author": "Suzanne Collins",
+        "genre": "Young Adult, Science Fiction",
+        "emotion": "excitement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Martian_%28Weir_novel%29.jpg/330px-The_Martian_%28Weir_novel%29.jpg",
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction",
+        "emotion": "excitement"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/The_Shining_%281977%29_front_cover%2C_first_edition.jpg/330px-The_Shining_%281977%29_front_cover%2C_first_edition.jpg",
+        "title": "The Shining",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "emotion": "fear"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Bird_Box_2014_book_cover.jpg",
+        "title": "Bird Box",
+        "author": "Josh Malerman",
+        "genre": "Horror, Thriller",
+        "emotion": "fear"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/It_%281986%29_front_cover%2C_first_edition.jpg/330px-It_%281986%29_front_cover%2C_first_edition.jpg",
+        "title": "It",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "emotion": "fear"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Dracula_1st_ed_cover_reproduction.jpg/330px-Dracula_1st_ed_cover_reproduction.jpg",
+        "title": "Dracula",
+        "author": "Bram Stoker",
+        "genre": "Gothic Horror",
+        "emotion": "fear"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/04/HauntingOfHillHouse.JPG",
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "genre": "Horror",
+        "emotion": "fear"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/MitchAlbom_TheFivePeopleYouMeetInHeaven.jpg",
+        "title": "The Five People You Meet in Heaven",
+        "author": "Mitch Albom",
+        "genre": "Fiction, Inspirational",
+        "emotion": "gratitude"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/Thank_You_for_Being_Late.jpg",
+        "title": "Thank You for Being Late",
+        "author": "Thomas L. Friedman",
+        "genre": "Nonfiction",
+        "emotion": "gratitude"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Letterstoayoungpoet.png",
+        "title": "Letters to a Young Poet",
+        "author": "Rainer Maria Rilke",
+        "genre": "Nonfiction, Letters",
+        "emotion": "gratitude"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/33/Kusuriyaaaa.jpg",
+        "title": "The Gratitude Diaries",
+        "author": "Janice Kaplan",
+        "genre": "Nonfiction, Self-help",
+        "emotion": "gratitude"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/Secret-Bunengshuodemimi2.jpg",
+        "title": "The Secret",
+        "author": "Rhonda Byrne",
+        "genre": "Self-help, Spiritual",
+        "emotion": "gratitude"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Lovely_Bones_cover.jpg",
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "genre": "Fiction",
+        "emotion": "grief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/10/A_Thousand_Splendid_Suns.gif",
+        "title": "A Thousand Splendid Suns",
+        "author": "Khaled Hosseini",
+        "genre": "Historical Fiction",
+        "emotion": "grief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Book_Thief_by_Markus_Zusak_book_cover.jpg",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "emotion": "grief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Joan_Didion_The_Year_of_Magical_Thinking_2005.jpg",
+        "title": "The Year of Magical Thinking",
+        "author": "Joan Didion",
+        "genre": "Memoir",
+        "emotion": "grief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Tuesdays_with_Morrie_book_cover.jpg",
+        "title": "Tuesdays with Morrie",
+        "author": "Mitch Albom",
+        "genre": "Biography, Memoir",
+        "emotion": "grief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Charlesspearin.jpg",
+        "title": "The Happiness Project",
+        "author": "Gretchen Rubin",
+        "genre": "Self-help",
+        "emotion": "joy"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Where_The_Crawdads_Sing_Book_Cover.jpg",
+        "title": "Where the Crawdads Sing",
+        "author": "Delia Owens",
+        "genre": "Fiction, Mystery",
+        "emotion": "joy"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c4/Eat%2C_Pray%2C_Love_%E2%80%93_Elizabeth_Gilbert%2C_2007.jpg",
+        "title": "Eat, Pray, Love",
+        "author": "Elizabeth Gilbert",
+        "genre": "Memoir",
+        "emotion": "joy"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Montgomery_Anne_of_Green_Gables.jpg/330px-Montgomery_Anne_of_Green_Gables.jpg",
+        "title": "Anne of Green Gables",
+        "author": "L.M. Montgomery",
+        "genre": "Children's Literature",
+        "emotion": "joy"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Houghton_AC85_B9345_911s_-_Secret_Garden%2C_1911_-_cover.jpg/330px-Houghton_AC85_B9345_911s_-_Secret_Garden%2C_1911_-_cover.jpg",
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "genre": "Children's Literature",
+        "emotion": "joy"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/PrideAndPrejudiceTitlePage.jpg/330px-PrideAndPrejudiceTitlePage.jpg",
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Classic Fiction, Romance",
+        "emotion": "love"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romeo_and_juliet_brown.jpg/330px-Romeo_and_juliet_brown.jpg",
+        "title": "Romeo and Juliet",
+        "author": "William Shakespeare",
+        "genre": "Tragedy, Romance",
+        "emotion": "love"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Posternotebook.jpg",
+        "title": "The Notebook",
+        "author": "Nicholas Sparks",
+        "genre": "Romance",
+        "emotion": "love"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Me_Before_You.jpg",
+        "title": "Me Before You",
+        "author": "Jojo Moyes",
+        "genre": "Romance, Contemporary Fiction",
+        "emotion": "love"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bf/TimeTravellersWife.jpg",
+        "title": "The Time Traveler's Wife",
+        "author": "Audrey Niffenegger",
+        "genre": "Science Fiction, Romance",
+        "emotion": "love"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/50/The_Girl_On_The_Train_%28US_cover_2015%29.png",
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "genre": "Thriller, Mystery",
+        "emotion": "nervousness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_%28Flynn_novel%29.jpg",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Thriller, Mystery",
+        "emotion": "nervousness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/BeforeIGoToSleep.jpg",
+        "title": "Before I Go to Sleep",
+        "author": "S.J. Watson",
+        "genre": "Thriller, Mystery",
+        "emotion": "nervousness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Sharp-objects-book-cover.jpg",
+        "title": "Sharp Objects",
+        "author": "Gillian Flynn",
+        "genre": "Thriller, Mystery",
+        "emotion": "nervousness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Silent_Patient_early_2019_UK_edition.png",
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Psychological Thriller",
+        "emotion": "nervousness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg/330px-The_Catcher_in_the_Rye_%281951%2C_first_edition_cover%29.jpg",
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Coming-of-Age Fiction",
+        "emotion": "neutral"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg/330px-To_Kill_a_Mockingbird_%28first_edition_cover%29.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic Fiction",
+        "emotion": "neutral"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/51/1984_first_edition_cover.jpg",
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian Fiction",
+        "emotion": "neutral"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg/330px-The_Great_Gatsby_Cover_1925_Retouched.jpg",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic Fiction",
+        "emotion": "neutral"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e9/First_Single_Volume_Edition_of_The_Lord_of_the_Rings.gif",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "emotion": "neutral"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/66/TPON_Cover_LG.jpg",
+        "title": "The Power of Now",
+        "author": "Eckhart Tolle",
+        "genre": "Spirituality, Self-help",
+        "emotion": "optimism"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/5/52/The_Four_Agreements.jpeg",
+        "title": "The Four Agreements",
+        "author": "Don Miguel Ruiz",
+        "genre": "Spirituality, Self-help",
+        "emotion": "optimism"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/WilliamGoldman_Magic.jpg",
+        "title": "Big Magic: Creative Living Beyond Fear",
+        "author": "Elizabeth Gilbert",
+        "genre": "Self-help, Creativity",
+        "emotion": "optimism"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Jen_Sincero.jpg/330px-Jen_Sincero.jpg",
+        "title": "You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life",
+        "author": "Jen Sincero",
+        "genre": "Self-help",
+        "emotion": "optimism"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Carol_Dweck_for_Innovation_documentary.jpg/330px-Carol_Dweck_for_Innovation_documentary.jpg",
+        "title": "Mindset: The New Psychology of Success",
+        "author": "Carol S. Dweck",
+        "genre": "Psychology, Self-help",
+        "emotion": "optimism"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/09/Becoming_%28Michelle_Obama_book%29.jpg",
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "genre": "Autobiography, Memoir",
+        "emotion": "pride"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Born_a_Crime_by_Trevor_Noah_%28book_cover%29.jpg",
+        "title": "Born a Crime: Stories from a South African Childhood",
+        "author": "Trevor Noah",
+        "genre": "Autobiography, Memoir",
+        "emotion": "pride"
+    },
+    {
+        "image": "",
+        "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
+        "author": "Malala Yousafzai",
+        "genre": "Autobiography, Memoir",
+        "emotion": "pride"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/0d/I_Am_Malala.jpg",
+        "title": "Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race",
+        "author": "Margot Lee Shetterly",
+        "genre": "Nonfiction, History",
+        "emotion": "pride"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/e4/Steve_Jobs_by_Walter_Isaacson.jpg",
+        "title": "Steve Jobs",
+        "author": "Walter Isaacson",
+        "genre": "Biography",
+        "emotion": "pride"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/TheAlchemist.jpg/330px-TheAlchemist.jpg",
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction, Inspirational",
+        "emotion": "realization"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/cf/Trotzdem_Ja_zum_Leben_sagen_%28Viktor_Frankl_novel%29_cover.jpg",
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "genre": "Psychology, Memoir",
+        "emotion": "realization"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/72/The_Road_Less_Traveled.jpg",
+        "title": "The Road Less Traveled",
+        "author": "M. Scott Peck",
+        "genre": "Psychology, Self-help",
+        "emotion": "realization"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Siddhartha_1972_poster.jpg",
+        "title": "Siddhartha",
+        "author": "Hermann Hesse",
+        "genre": "Fiction, Philosophy",
+        "emotion": "realization"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bd/The_Subtle_Art_of_Not_Giving_a_F%2Ack_by_Mark_Manson_-_Book_Cover.png",
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "genre": "Self-help",
+        "emotion": "realization"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/The_Martian_%28Weir_novel%29.jpg/330px-The_Martian_%28Weir_novel%29.jpg",
+        "title": "The Martian",
+        "author": "Andy Weir",
+        "genre": "Science Fiction",
+        "emotion": "relief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/45/Life_of_Pi_cover.png",
+        "title": "Life of Pi",
+        "author": "Yann Martel",
+        "genre": "Fantasy, Adventure",
+        "emotion": "relief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c2/Room_%282015_film%29.png",
+        "title": "Room",
+        "author": "Emma Donoghue",
+        "genre": "Literary Fiction",
+        "emotion": "relief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/TheNightCircus.jpg",
+        "title": "The Night Circus",
+        "author": "Erin Morgenstern",
+        "genre": "Fantasy, Romance",
+        "emotion": "relief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/e/ef/Thehelpbookcover.jpg",
+        "title": "The Help",
+        "author": "Kathryn Stockett",
+        "genre": "Historical Fiction",
+        "emotion": "relief"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Crimeandpunishmentcover.png",
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "genre": "Philosophical Fiction",
+        "emotion": "remorse"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Kite_runner.jpg",
+        "title": "The Kite Runner",
+        "author": "Khaled Hosseini",
+        "genre": "Historical Fiction",
+        "emotion": "remorse"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Atonement_%28novel%29.jpg",
+        "title": "Atonement",
+        "author": "Ian McEwan",
+        "genre": "Historical Fiction",
+        "emotion": "remorse"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Lippincott_doriangray.jpg/330px-Lippincott_doriangray.jpg",
+        "title": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde",
+        "genre": "Gothic Fiction",
+        "emotion": "remorse"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/The_Secret_History%2C_front_cover.jpg",
+        "title": "The Secret History",
+        "author": "Donna Tartt",
+        "genre": "Mystery, Psychological Fiction",
+        "emotion": "remorse"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/8f/The_Book_Thief_by_Markus_Zusak_book_cover.jpg",
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "emotion": "sadness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/The_Fault_in_Our_Stars.jpg",
+        "title": "The Fault in Our Stars",
+        "author": "John Green",
+        "genre": "Young Adult, Romance",
+        "emotion": "sadness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/94/A_Little_LIfe.jpg",
+        "title": "A Little Life",
+        "author": "Hanya Yanagihara",
+        "genre": "Literary Fiction",
+        "emotion": "sadness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Lovely_Bones_cover.jpg",
+        "title": "The Lovely Bones",
+        "author": "Alice Sebold",
+        "genre": "Fiction",
+        "emotion": "sadness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Neverletmego.jpeg",
+        "title": "Never Let Me Go",
+        "author": "Kazuo Ishiguro",
+        "genre": "Science Fiction, Dystopian Fiction",
+        "emotion": "sadness"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_%28Flynn_novel%29.jpg",
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Thriller, Mystery",
+        "emotion": "surprise"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/b/bc/Thegirlwiththedragontattoo.jpg",
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "genre": "Mystery, Thriller",
+        "emotion": "surprise"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/dc/Sharp-objects-book-cover.jpg",
+        "title": "Sharp Objects",
+        "author": "Gillian Flynn",
+        "genre": "Thriller, Mystery",
+        "emotion": "surprise"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/d/df/The_Silent_Patient_early_2019_UK_edition.png",
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Psychological Thriller",
+        "emotion": "surprise"
+    },
+    {
+        "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/A_porte_chiuse.jpg",
+        "title": "Behind Closed Doors",
+        "author": "B.A. Paris",
+        "genre": "Thriller, Mystery",
+        "emotion": "surprise"
+    }
+]

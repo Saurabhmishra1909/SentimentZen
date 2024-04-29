@@ -1,0 +1,1894 @@
+[
+    {
+        "title": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "emotion": "surprise"
+    },
+    {
+        "title": "The Final Countdown",
+        "singer": "Europe",
+        "year": 1986,
+        "genre": "Rock",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Thriller",
+        "singer": "Michael Jackson",
+        "year": 1982,
+        "genre": "Pop",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Somebody That I Used to Know",
+        "singer": "Gotye ft. Kimbra",
+        "year": 2011,
+        "genre": "Indie Pop",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Hey Ya!",
+        "singer": "Outkast",
+        "year": 2003,
+        "genre": "Hip Hop",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Uptown Funk",
+        "singer": "Mark Ronson ft. Bruno Mars",
+        "year": 2014,
+        "genre": "Funk",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Take on Me",
+        "singer": "a-ha",
+        "year": 1984,
+        "genre": "Synth-pop",
+        "emotion": "surprise"
+    },
+    {
+        "title": "What is Love",
+        "singer": "Haddaway",
+        "year": 1993,
+        "genre": "Eurodance",
+        "emotion": "surprise"
+    },
+    {
+        "title": "I Want to Break Free",
+        "singer": "Queen",
+        "year": 1984,
+        "genre": "Rock",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Never Gonna Give You Up",
+        "singer": "Rick Astley",
+        "year": 1987,
+        "genre": "Pop",
+        "emotion": "surprise"
+    },
+    {
+        "title": "Hurt",
+        "singer": "Johnny Cash",
+        "year": 2002,
+        "genre": "Country",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Mad World",
+        "singer": "Tears for Fears",
+        "year": 1982,
+        "genre": "New Wave",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Fix You",
+        "singer": "Coldplay",
+        "year": 2005,
+        "genre": "Alternative Rock",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Tears in Heaven",
+        "singer": "Eric Clapton",
+        "year": 1992,
+        "genre": "Soft Rock",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "year": 1990,
+        "genre": "Pop",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Yesterday",
+        "singer": "The Beatles",
+        "year": 1965,
+        "genre": "Rock",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Say Something",
+        "singer": "A Great Big World & Christina Aguilera",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "sadness"
+    },
+    {
+        "title": "The Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Someone Like You",
+        "singer": "Adele",
+        "year": 2011,
+        "genre": "Soul",
+        "emotion": "sadness"
+    },
+    {
+        "title": "Yesterday",
+        "singer": "The Beatles",
+        "year": 1965,
+        "genre": "Rock",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Sorry",
+        "singer": "Justin Bieber",
+        "year": 2015,
+        "genre": "Pop",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Say Something",
+        "singer": "A Great Big World & Christina Aguilera",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Tears in Heaven",
+        "singer": "Eric Clapton",
+        "year": 1992,
+        "genre": "Soft Rock",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Hello",
+        "singer": "Adele",
+        "year": 2015,
+        "genre": "Pop",
+        "emotion": "remorse"
+    },
+    {
+        "title": "The Scientist",
+        "singer": "Coldplay",
+        "year": 2002,
+        "genre": "Alternative Rock",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Hurt",
+        "singer": "Johnny Cash",
+        "year": 2002,
+        "genre": "Country",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "year": 1990,
+        "genre": "Pop",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Fix You",
+        "singer": "Coldplay",
+        "year": 2005,
+        "genre": "Alternative Rock",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Someone Like You",
+        "singer": "Adele",
+        "year": 2011,
+        "genre": "Soul",
+        "emotion": "remorse"
+    },
+    {
+        "title": "Lean on Me",
+        "singer": "Bill Withers",
+        "year": 1972,
+        "genre": "Soul",
+        "emotion": "relief"
+    },
+    {
+        "title": "Don't Worry, Be Happy",
+        "singer": "Bobby McFerrin",
+        "year": 1988,
+        "genre": "Reggae",
+        "emotion": "relief"
+    },
+    {
+        "title": "I Will Survive",
+        "singer": "Gloria Gaynor",
+        "year": 1978,
+        "genre": "Disco",
+        "emotion": "relief"
+    },
+    {
+        "title": "I'm Still Standing",
+        "singer": "Elton John",
+        "year": 1983,
+        "genre": "Pop",
+        "emotion": "relief"
+    },
+    {
+        "title": "Fix You",
+        "singer": "Coldplay",
+        "year": 2005,
+        "genre": "Alternative Rock",
+        "emotion": "relief"
+    },
+    {
+        "title": "Better Days",
+        "singer": "Goo Goo Dolls",
+        "year": 2005,
+        "genre": "Alternative Rock",
+        "emotion": "relief"
+    },
+    {
+        "title": "Dancing Queen",
+        "singer": "ABBA",
+        "year": 1976,
+        "genre": "Disco",
+        "emotion": "relief"
+    },
+    {
+        "title": "Here Comes the Sun",
+        "singer": "The Beatles",
+        "year": 1969,
+        "genre": "Rock",
+        "emotion": "relief"
+    },
+    {
+        "title": "Walking on Sunshine",
+        "singer": "Katrina and the Waves",
+        "year": 1983,
+        "genre": "Pop Rock",
+        "emotion": "relief"
+    },
+    {
+        "title": "The Climb",
+        "singer": "Miley Cyrus",
+        "year": 2009,
+        "genre": "Pop",
+        "emotion": "relief"
+    },
+    {
+        "title": "Wake Me Up When September Ends",
+        "singer": "Green Day",
+        "year": 2004,
+        "genre": "Alternative Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "Losing My Religion",
+        "singer": "R.E.M.",
+        "year": 1991,
+        "genre": "Alternative Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "Boulevard of Broken Dreams",
+        "singer": "Green Day",
+        "year": 2004,
+        "genre": "Alternative Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "The Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "What Goes Around... Comes Around",
+        "singer": "Justin Timberlake",
+        "year": 2006,
+        "genre": "Pop",
+        "emotion": "realization"
+    },
+    {
+        "title": "Hurt",
+        "singer": "Johnny Cash",
+        "year": 2002,
+        "genre": "Country",
+        "emotion": "realization"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "realization"
+    },
+    {
+        "title": "Mad World",
+        "singer": "Tears for Fears",
+        "year": 1982,
+        "genre": "New Wave",
+        "emotion": "realization"
+    },
+    {
+        "title": "Somebody That I Used to Know",
+        "singer": "Gotye ft. Kimbra",
+        "year": 2011,
+        "genre": "Indie Pop",
+        "emotion": "realization"
+    },
+    {
+        "title": "We Are the Champions",
+        "singer": "Queen",
+        "year": 1977,
+        "genre": "Rock",
+        "emotion": "pride"
+    },
+    {
+        "title": "Eye of the Tiger",
+        "singer": "Survivor",
+        "year": 1982,
+        "genre": "Rock",
+        "emotion": "pride"
+    },
+    {
+        "title": "Stronger",
+        "singer": "Kelly Clarkson",
+        "year": 2011,
+        "genre": "Pop",
+        "emotion": "pride"
+    },
+    {
+        "title": "We Will Rock You",
+        "singer": "Queen",
+        "year": 1977,
+        "genre": "Rock",
+        "emotion": "pride"
+    },
+    {
+        "title": "Born This Way",
+        "singer": "Lady Gaga",
+        "year": 2011,
+        "genre": "Pop",
+        "emotion": "pride"
+    },
+    {
+        "title": "Survivor",
+        "singer": "Destiny's Child",
+        "year": 2001,
+        "genre": "R&B",
+        "emotion": "pride"
+    },
+    {
+        "title": "I Will Survive",
+        "singer": "Gloria Gaynor",
+        "year": 1978,
+        "genre": "Disco",
+        "emotion": "pride"
+    },
+    {
+        "title": "I'm Coming Out",
+        "singer": "Diana Ross",
+        "year": 1980,
+        "genre": "R&B",
+        "emotion": "pride"
+    },
+    {
+        "title": "Fighter",
+        "singer": "Christina Aguilera",
+        "year": 2002,
+        "genre": "Pop",
+        "emotion": "pride"
+    },
+    {
+        "title": "Man in the Mirror",
+        "singer": "Michael Jackson",
+        "year": 1988,
+        "genre": "Pop",
+        "emotion": "pride"
+    },
+    {
+        "title": "Here Comes the Sun",
+        "singer": "The Beatles",
+        "year": 1969,
+        "genre": "Rock",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Good Vibrations",
+        "singer": "The Beach Boys",
+        "year": 1966,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Ain't No Mountain High Enough",
+        "singer": "Marvin Gaye & Tammi Terrell",
+        "year": 1967,
+        "genre": "Soul",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "singer": "Journey",
+        "year": 1981,
+        "genre": "Rock",
+        "emotion": "optimism"
+    },
+    {
+        "title": "The Climb",
+        "singer": "Miley Cyrus",
+        "year": 2009,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "I'm Still Standing",
+        "singer": "Elton John",
+        "year": 1983,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Beautiful Day",
+        "singer": "U2",
+        "year": 2000,
+        "genre": "Rock",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Roar",
+        "singer": "Katy Perry",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Brave",
+        "singer": "Sara Bareilles",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Happy",
+        "singer": "Pharrell Williams",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "optimism"
+    },
+    {
+        "title": "Clocks",
+        "singer": "Coldplay",
+        "year": 2002,
+        "genre": "Alternative Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Yellow",
+        "singer": "Coldplay",
+        "year": 2000,
+        "genre": "Alternative Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Someone Like You",
+        "singer": "Adele",
+        "year": 2011,
+        "genre": "Soul",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Shape of My Heart",
+        "singer": "Sting",
+        "year": 1993,
+        "genre": "Soft Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Boulevard of Broken Dreams",
+        "singer": "Green Day",
+        "year": 2004,
+        "genre": "Alternative Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Breezeblocks",
+        "singer": "alt-J",
+        "year": 2012,
+        "genre": "Indie Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Chasing Cars",
+        "singer": "Snow Patrol",
+        "year": 2006,
+        "genre": "Alternative Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Let Her Go",
+        "singer": "Passenger",
+        "year": 2012,
+        "genre": "Folk Rock",
+        "emotion": "neutral"
+    },
+    {
+        "title": "Under Pressure",
+        "singer": "Queen & David Bowie",
+        "year": 1981,
+        "genre": "Rock",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Nervous",
+        "singer": "Shawn Mendes",
+        "year": 2018,
+        "genre": "Pop",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Don't Panic",
+        "singer": "Coldplay",
+        "year": 2000,
+        "genre": "Alternative Rock",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "The Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Stressed Out",
+        "singer": "Twenty One Pilots",
+        "year": 2015,
+        "genre": "Alternative Hip Hop",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Tightrope",
+        "singer": "Janelle Monáe",
+        "year": 2010,
+        "genre": "R&B",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Anxiety",
+        "singer": "Blackbear",
+        "year": 2018,
+        "genre": "Pop",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Nervous Breakdown",
+        "singer": "Eddie Cochran",
+        "year": 1959,
+        "genre": "Rock and Roll",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Nervous",
+        "singer": "Gavin James",
+        "year": 2015,
+        "genre": "Pop",
+        "emotion": "nervousness"
+    },
+    {
+        "title": "Can't Help Falling in Love",
+        "singer": "Elvis Presley",
+        "year": 1961,
+        "genre": "Pop",
+        "emotion": "love"
+    },
+    {
+        "title": "I Will Always Love You",
+        "singer": "Whitney Houston",
+        "year": 1992,
+        "genre": "R&B",
+        "emotion": "love"
+    },
+    {
+        "title": "Endless Love",
+        "singer": "Diana Ross & Lionel Richie",
+        "year": 1981,
+        "genre": "Pop",
+        "emotion": "love"
+    },
+    {
+        "title": "Unchained Melody",
+        "singer": "The Righteous Brothers",
+        "year": 1965,
+        "genre": "Pop",
+        "emotion": "love"
+    },
+    {
+        "title": "My Heart Will Go On",
+        "singer": "Celine Dion",
+        "year": 1997,
+        "genre": "Pop",
+        "emotion": "love"
+    },
+    {
+        "title": "I Don't Want to Miss a Thing",
+        "singer": "Aerosmith",
+        "year": 1998,
+        "genre": "Rock",
+        "emotion": "love"
+    },
+    {
+        "title": "Make You Feel My Love",
+        "singer": "Adele",
+        "year": 2008,
+        "genre": "Pop",
+        "emotion": "love"
+    },
+    {
+        "title": "Crazy Little Thing Called Love",
+        "singer": "Queen",
+        "year": 1979,
+        "genre": "Rock",
+        "emotion": "love"
+    },
+    {
+        "title": "I Want to Hold Your Hand",
+        "singer": "The Beatles",
+        "year": 1963,
+        "genre": "Rock",
+        "emotion": "love"
+    },
+    {
+        "title": "Wonderful Tonight",
+        "singer": "Eric Clapton",
+        "year": 1977,
+        "genre": "Soft Rock",
+        "emotion": "love"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "singer": "Journey",
+        "year": 1981,
+        "genre": "Rock",
+        "emotion": "joy"
+    },
+    {
+        "title": "Happy",
+        "singer": "Pharrell Williams",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "joy"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "singer": "Justin Timberlake",
+        "year": 2016,
+        "genre": "Pop",
+        "emotion": "joy"
+    },
+    {
+        "title": "I Gotta Feeling",
+        "singer": "The Black Eyed Peas",
+        "year": 2009,
+        "genre": "Pop",
+        "emotion": "joy"
+    },
+    {
+        "title": "Walking on Sunshine",
+        "singer": "Katrina and the Waves",
+        "year": 1983,
+        "genre": "Pop Rock",
+        "emotion": "joy"
+    },
+    {
+        "title": "I Want to Hold Your Hand",
+        "singer": "The Beatles",
+        "year": 1963,
+        "genre": "Rock",
+        "emotion": "joy"
+    },
+    {
+        "title": "I'm a Believer",
+        "singer": "The Monkees",
+        "year": 1966,
+        "genre": "Rock",
+        "emotion": "joy"
+    },
+    {
+        "title": "Brown Eyed Girl",
+        "singer": "Van Morrison",
+        "year": 1967,
+        "genre": "Folk Rock",
+        "emotion": "joy"
+    },
+    {
+        "title": "September",
+        "singer": "Earth, Wind & Fire",
+        "year": 1978,
+        "genre": "R&B",
+        "emotion": "joy"
+    },
+    {
+        "title": "I Feel Good",
+        "singer": "James Brown",
+        "year": 1965,
+        "genre": "Funk",
+        "emotion": "joy"
+    },
+    {
+        "title": "Tears in Heaven",
+        "singer": "Eric Clapton",
+        "year": 1992,
+        "genre": "Soft Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Hallelujah",
+        "singer": "Jeff Buckley",
+        "year": 1994,
+        "genre": "Folk Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "year": 1990,
+        "genre": "Pop",
+        "emotion": "grief"
+    },
+    {
+        "title": "Hurt",
+        "singer": "Johnny Cash",
+        "year": 2002,
+        "genre": "Country",
+        "emotion": "grief"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Wish You Were Here",
+        "singer": "Pink Floyd",
+        "year": 1975,
+        "genre": "Progressive Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Tears from Heaven",
+        "singer": "Eric Clapton",
+        "year": 1992,
+        "genre": "Soft Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Yesterday",
+        "singer": "The Beatles",
+        "year": 1965,
+        "genre": "Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "My Immortal",
+        "singer": "Evanescence",
+        "year": 2003,
+        "genre": "Alternative Rock",
+        "emotion": "grief"
+    },
+    {
+        "title": "Angel",
+        "singer": "Sarah McLachlan",
+        "year": 1997,
+        "genre": "Pop",
+        "emotion": "grief"
+    },
+    {
+        "title": "Thank You",
+        "singer": "Dido",
+        "year": 1998,
+        "genre": "Pop",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "I Will Always Love You",
+        "singer": "Whitney Houston",
+        "year": 1992,
+        "genre": "R&B",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "My Way",
+        "singer": "Frank Sinatra",
+        "year": 1969,
+        "genre": "Traditional Pop",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "Hero",
+        "singer": "Mariah Carey",
+        "year": 1993,
+        "genre": "R&B",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "Wind Beneath My Wings",
+        "singer": "Bette Midler",
+        "year": 1982,
+        "genre": "Pop",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "You Raise Me Up",
+        "singer": "Josh Groban",
+        "year": 2002,
+        "genre": "Pop",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "What a Wonderful World",
+        "singer": "Louis Armstrong",
+        "year": 1967,
+        "genre": "Jazz",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "Lean on Me",
+        "singer": "Bill Withers",
+        "year": 1972,
+        "genre": "Soul",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "You've Got a Friend",
+        "singer": "James Taylor",
+        "year": 1971,
+        "genre": "Folk Rock",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "Count on Me",
+        "singer": "Bruno Mars",
+        "year": 2010,
+        "genre": "Pop",
+        "emotion": "gratitude"
+    },
+    {
+        "title": "Thriller",
+        "singer": "Michael Jackson",
+        "year": 1982,
+        "genre": "Pop",
+        "emotion": "fear"
+    },
+    {
+        "title": "Somebody's Watching Me",
+        "singer": "Rockwell",
+        "year": 1984,
+        "genre": "Pop",
+        "emotion": "fear"
+    },
+    {
+        "title": "Disturbia",
+        "singer": "Rihanna",
+        "year": 2008,
+        "genre": "Pop",
+        "emotion": "fear"
+    },
+    {
+        "title": "Monster",
+        "singer": "Skillet",
+        "year": 2009,
+        "genre": "Christian Rock",
+        "emotion": "fear"
+    },
+    {
+        "title": "Black Sabbath",
+        "singer": "Black Sabbath",
+        "year": 1970,
+        "genre": "Heavy Metal",
+        "emotion": "fear"
+    },
+    {
+        "title": "Sympathy for the Devil",
+        "singer": "The Rolling Stones",
+        "year": 1968,
+        "genre": "Rock",
+        "emotion": "fear"
+    },
+    {
+        "title": "The Number of the Beast",
+        "singer": "Iron Maiden",
+        "year": 1982,
+        "genre": "Heavy Metal",
+        "emotion": "fear"
+    },
+    {
+        "title": "Enter Sandman",
+        "singer": "Metallica",
+        "year": 1991,
+        "genre": "Heavy Metal",
+        "emotion": "fear"
+    },
+    {
+        "title": "Bark at the Moon",
+        "singer": "Ozzy Osbourne",
+        "year": 1983,
+        "genre": "Heavy Metal",
+        "emotion": "fear"
+    },
+    {
+        "title": "A Nightmare on My Street",
+        "singer": "DJ Jazzy Jeff & The Fresh Prince",
+        "year": 1988,
+        "genre": "Hip hop",
+        "emotion": "fear"
+    },
+    {
+        "title": "Eye of the Tiger",
+        "singer": "Survivor",
+        "year": 1982,
+        "genre": "Rock",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "singer": "Journey",
+        "year": 1981,
+        "genre": "Rock",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Uptown Funk",
+        "singer": "Mark Ronson ft. Bruno Mars",
+        "year": 2014,
+        "genre": "Funk",
+        "emotion": "excitement"
+    },
+    {
+        "title": "I Gotta Feeling",
+        "singer": "The Black Eyed Peas",
+        "year": 2009,
+        "genre": "Pop",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Happy",
+        "singer": "Pharrell Williams",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "excitement"
+    },
+    {
+        "title": "We Will Rock You",
+        "singer": "Queen",
+        "year": 1977,
+        "genre": "Rock",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Party Rock Anthem",
+        "singer": "LMFAO ft. Lauren Bennett & GoonRock",
+        "year": 2011,
+        "genre": "Electropop",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Thunderstruck",
+        "singer": "AC/DC",
+        "year": 1990,
+        "genre": "Hard Rock",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Livin' on a Prayer",
+        "singer": "Bon Jovi",
+        "year": 1986,
+        "genre": "Rock",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "singer": "Justin Timberlake",
+        "year": 2016,
+        "genre": "Pop",
+        "emotion": "excitement"
+    },
+    {
+        "title": "Oops!... I Did It Again",
+        "singer": "Britney Spears",
+        "year": 2000,
+        "genre": "Pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "I'm Too Sexy",
+        "singer": "Right Said Fred",
+        "year": 1991,
+        "genre": "Dance-pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Barbie Girl",
+        "singer": "Aqua",
+        "year": 1997,
+        "genre": "Eurodance",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "The Ketchup Song (Aserejé)",
+        "singer": "Las Ketchup",
+        "year": 2002,
+        "genre": "Pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Friday",
+        "singer": "Rebecca Black",
+        "year": 2011,
+        "genre": "Pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Let It Go",
+        "singer": "Idina Menzel",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Baby",
+        "singer": "Justin Bieber",
+        "year": 2010,
+        "genre": "Pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Achy Breaky Heart",
+        "singer": "Billy Ray Cyrus",
+        "year": 1992,
+        "genre": "Country",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "I Will Always Love You",
+        "singer": "Whitney Houston",
+        "year": 1992,
+        "genre": "R&B",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Gangnam Style",
+        "singer": "PSY",
+        "year": 2012,
+        "genre": "K-pop",
+        "emotion": "embarrassment"
+    },
+    {
+        "title": "Smack My Bitch Up",
+        "singer": "The Prodigy",
+        "year": 1997,
+        "genre": "Big Beat",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Blurred Lines",
+        "singer": "Robin Thicke ft. T.I. & Pharrell Williams",
+        "year": 2013,
+        "genre": "R&B",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Dance with the Devil",
+        "singer": "Immortal Technique",
+        "year": 2001,
+        "genre": "Hip hop",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Ass Like That",
+        "singer": "Eminem",
+        "year": 2005,
+        "genre": "Hip hop",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Gold Digger",
+        "singer": "Kanye West ft. Jamie Foxx",
+        "year": 2005,
+        "genre": "Hip hop",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Anaconda",
+        "singer": "Nicki Minaj",
+        "year": 2014,
+        "genre": "Hip hop",
+        "emotion": "disgust"
+    },
+    {
+        "title": "My Neck, My Back (Lick It)",
+        "singer": "Khia",
+        "year": 2002,
+        "genre": "Dirty rap",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Milkshake",
+        "singer": "Kelis",
+        "year": 2003,
+        "genre": "R&B",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Gimme More",
+        "singer": "Britney Spears",
+        "year": 2007,
+        "genre": "Pop",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Booty",
+        "singer": "Jennifer Lopez ft. Iggy Azalea",
+        "year": 2014,
+        "genre": "R&B",
+        "emotion": "disgust"
+    },
+    {
+        "title": "Hurt",
+        "singer": "Johnny Cash",
+        "year": 2002,
+        "genre": "Country",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "The Scientist",
+        "singer": "Coldplay",
+        "year": 2002,
+        "genre": "Alternative Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Yesterday",
+        "singer": "The Beatles",
+        "year": 1965,
+        "genre": "Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Nothing Compares 2 U",
+        "singer": "Sinéad O'Connor",
+        "year": 1990,
+        "genre": "Pop",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Tears in Heaven",
+        "singer": "Eric Clapton",
+        "year": 1992,
+        "genre": "Soft Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Everybody Hurts",
+        "singer": "R.E.M.",
+        "year": 1992,
+        "genre": "Alternative Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Someone Like You",
+        "singer": "Adele",
+        "year": 2011,
+        "genre": "Soul",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Sorry Seems to Be the Hardest Word",
+        "singer": "Elton John",
+        "year": 1976,
+        "genre": "Soft Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Fix You",
+        "singer": "Coldplay",
+        "year": 2005,
+        "genre": "Alternative Rock",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Un-Break My Heart",
+        "singer": "Toni Braxton",
+        "year": 1996,
+        "genre": "R&B",
+        "emotion": "disappointment"
+    },
+    {
+        "title": "Crazy in Love",
+        "singer": "Beyoncé ft. Jay-Z",
+        "year": 2003,
+        "genre": "R&B",
+        "emotion": "desire"
+    },
+    {
+        "title": "Earned It",
+        "singer": "The Weeknd",
+        "year": 2014,
+        "genre": "R&B",
+        "emotion": "desire"
+    },
+    {
+        "title": "Sexual Healing",
+        "singer": "Marvin Gaye",
+        "year": 1982,
+        "genre": "R&B",
+        "emotion": "desire"
+    },
+    {
+        "title": "Wicked Game",
+        "singer": "Chris Isaak",
+        "year": 1989,
+        "genre": "Rock",
+        "emotion": "desire"
+    },
+    {
+        "title": "Drunk in Love",
+        "singer": "Beyoncé ft. Jay-Z",
+        "year": 2013,
+        "genre": "R&B",
+        "emotion": "desire"
+    },
+    {
+        "title": "Adore You",
+        "singer": "Harry Styles",
+        "year": 2019,
+        "genre": "Pop",
+        "emotion": "desire"
+    },
+    {
+        "title": "I Want to Know What Love Is",
+        "singer": "Foreigner",
+        "year": 1984,
+        "genre": "Rock",
+        "emotion": "desire"
+    },
+    {
+        "title": "Let's Get It On",
+        "singer": "Marvin Gaye",
+        "year": 1973,
+        "genre": "Soul",
+        "emotion": "desire"
+    },
+    {
+        "title": "Wicked Games",
+        "singer": "The Weeknd",
+        "year": 2012,
+        "genre": "R&B",
+        "emotion": "desire"
+    },
+    {
+        "title": "The Power of Love",
+        "singer": "Huey Lewis and the News",
+        "year": 1985,
+        "genre": "Rock",
+        "emotion": "desire"
+    },
+    {
+        "title": "Space Oddity",
+        "singer": "David Bowie",
+        "year": 1969,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Hotel California",
+        "singer": "Eagles",
+        "year": 1976,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Stairway to Heaven",
+        "singer": "Led Zeppelin",
+        "year": 1971,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "The Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Eleanor Rigby",
+        "singer": "The Beatles",
+        "year": 1966,
+        "genre": "Baroque Pop",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Paint It Black",
+        "singer": "The Rolling Stones",
+        "year": 1966,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Sympathy for the Devil",
+        "singer": "The Rolling Stones",
+        "year": 1968,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Behind Blue Eyes",
+        "singer": "The Who",
+        "year": 1971,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Baba O'Riley",
+        "singer": "The Who",
+        "year": 1971,
+        "genre": "Rock",
+        "emotion": "curiosity"
+    },
+    {
+        "title": "Yellow Submarine",
+        "singer": "The Beatles",
+        "year": 1966,
+        "genre": "Psychedelic Pop",
+        "emotion": "confusion"
+    },
+    {
+        "title": "I Am the Walrus",
+        "singer": "The Beatles",
+        "year": 1967,
+        "genre": "Psychedelic Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "The Great Gig in the Sky",
+        "singer": "Pink Floyd",
+        "year": 1973,
+        "genre": "Progressive Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Paranoid Android",
+        "singer": "Radiohead",
+        "year": 1997,
+        "genre": "Alternative Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Enter Sandman",
+        "singer": "Metallica",
+        "year": 1991,
+        "genre": "Heavy Metal",
+        "emotion": "confusion"
+    },
+    {
+        "title": "White Rabbit",
+        "singer": "Jefferson Airplane",
+        "year": 1967,
+        "genre": "Psychedelic Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Lucy in the Sky with Diamonds",
+        "singer": "The Beatles",
+        "year": 1967,
+        "genre": "Psychedelic Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Tomorrow Never Knows",
+        "singer": "The Beatles",
+        "year": 1966,
+        "genre": "Psychedelic Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Comfortably Numb",
+        "singer": "Pink Floyd",
+        "year": 1979,
+        "genre": "Progressive Rock",
+        "emotion": "confusion"
+    },
+    {
+        "title": "Lean on Me",
+        "singer": "Bill Withers",
+        "year": 1972,
+        "genre": "Soul",
+        "emotion": "caring"
+    },
+    {
+        "title": "You've Got a Friend",
+        "singer": "James Taylor",
+        "year": 1971,
+        "genre": "Folk Rock",
+        "emotion": "caring"
+    },
+    {
+        "title": "Wind Beneath My Wings",
+        "singer": "Bette Midler",
+        "year": 1982,
+        "genre": "Pop",
+        "emotion": "caring"
+    },
+    {
+        "title": "I'll Be There",
+        "singer": "The Jackson 5",
+        "year": 1970,
+        "genre": "Soul",
+        "emotion": "caring"
+    },
+    {
+        "title": "Count on Me",
+        "singer": "Bruno Mars",
+        "year": 2010,
+        "genre": "Pop",
+        "emotion": "caring"
+    },
+    {
+        "title": "You Raise Me Up",
+        "singer": "Josh Groban",
+        "year": 2002,
+        "genre": "Pop",
+        "emotion": "caring"
+    },
+    {
+        "title": "Bridge Over Troubled Water",
+        "singer": "Simon & Garfunkel",
+        "year": 1970,
+        "genre": "Folk Rock",
+        "emotion": "caring"
+    },
+    {
+        "title": "Stand by Me",
+        "singer": "Ben E. King",
+        "year": 1961,
+        "genre": "R&B",
+        "emotion": "caring"
+    },
+    {
+        "title": "You Are Loved (Don't Give Up)",
+        "singer": "Josh Groban",
+        "year": 2006,
+        "genre": "Pop",
+        "emotion": "caring"
+    },
+    {
+        "title": "Heal the World",
+        "singer": "Michael Jackson",
+        "year": 1991,
+        "genre": "Pop",
+        "emotion": "caring"
+    },
+    {
+        "title": "Eye of the Tiger",
+        "singer": "Survivor",
+        "year": 1982,
+        "genre": "Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "Happy",
+        "singer": "Pharrell Williams",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "approval"
+    },
+    {
+        "title": "We Will Rock You",
+        "singer": "Queen",
+        "year": 1977,
+        "genre": "Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "Don't Stop Believin'",
+        "singer": "Journey",
+        "year": 1981,
+        "genre": "Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "I Will Survive",
+        "singer": "Gloria Gaynor",
+        "year": 1978,
+        "genre": "Disco",
+        "emotion": "approval"
+    },
+    {
+        "title": "Uptown Funk",
+        "singer": "Mark Ronson ft. Bruno Mars",
+        "year": 2014,
+        "genre": "Funk",
+        "emotion": "approval"
+    },
+    {
+        "title": "Beautiful Day",
+        "singer": "U2",
+        "year": 2000,
+        "genre": "Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "I'm a Believer",
+        "singer": "The Monkees",
+        "year": 1966,
+        "genre": "Pop Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "Walking on Sunshine",
+        "singer": "Katrina and the Waves",
+        "year": 1985,
+        "genre": "Pop Rock",
+        "emotion": "approval"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "singer": "Justin Timberlake",
+        "year": 2016,
+        "genre": "Pop",
+        "emotion": "approval"
+    },
+    {
+        "title": "Baby",
+        "singer": "Justin Bieber",
+        "year": 2010,
+        "genre": "Pop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Friday",
+        "singer": "Rebecca Black",
+        "year": 2011,
+        "genre": "Pop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Barbie Girl",
+        "singer": "Aqua",
+        "year": 1997,
+        "genre": "Eurodance",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Cotton Eye Joe",
+        "singer": "Rednex",
+        "year": 1994,
+        "genre": "Country Dance",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "The Gummy Bear Song",
+        "singer": "Gummibär",
+        "year": 2007,
+        "genre": "Dance-pop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "I'm Too Sexy",
+        "singer": "Right Said Fred",
+        "year": 1991,
+        "genre": "Dance-pop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Macarena",
+        "singer": "Los Del Rio",
+        "year": 1995,
+        "genre": "Latin Dance",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Hamster Dance",
+        "singer": "Hampton the Hampster",
+        "year": 2000,
+        "genre": "Dance",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "My Humps",
+        "singer": "The Black Eyed Peas",
+        "year": 2005,
+        "genre": "Hip hop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Whip My Hair",
+        "singer": "Willow Smith",
+        "year": 2010,
+        "genre": "Pop",
+        "emotion": "annoyance"
+    },
+    {
+        "title": "Killing in the Name",
+        "singer": "Rage Against the Machine",
+        "year": 1992,
+        "genre": "Alternative Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Break Stuff",
+        "singer": "Limp Bizkit",
+        "year": 1999,
+        "genre": "Nu Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Bodies",
+        "singer": "Drowning Pool",
+        "year": 2001,
+        "genre": "Alternative Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Down with the Sickness",
+        "singer": "Disturbed",
+        "year": 2000,
+        "genre": "Nu Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Bulls on Parade",
+        "singer": "Rage Against the Machine",
+        "year": 1996,
+        "genre": "Alternative Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "One Step Closer",
+        "singer": "Linkin Park",
+        "year": 2000,
+        "genre": "Nu Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "I Hate Everything About You",
+        "singer": "Three Days Grace",
+        "year": 2003,
+        "genre": "Alternative Rock",
+        "emotion": "anger"
+    },
+    {
+        "title": "The Beautiful People",
+        "singer": "Marilyn Manson",
+        "year": 1996,
+        "genre": "Industrial Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Animal I Have Become",
+        "singer": "Three Days Grace",
+        "year": 2006,
+        "genre": "Alternative Rock",
+        "emotion": "anger"
+    },
+    {
+        "title": "Freak on a Leash",
+        "singer": "Korn",
+        "year": 1998,
+        "genre": "Nu Metal",
+        "emotion": "anger"
+    },
+    {
+        "title": "Happy",
+        "singer": "Pharrell Williams",
+        "year": 2013,
+        "genre": "Pop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Uptown Funk",
+        "singer": "Mark Ronson ft. Bruno Mars",
+        "year": 2014,
+        "genre": "Funk",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Can't Stop the Feeling!",
+        "singer": "Justin Timberlake",
+        "year": 2016,
+        "genre": "Pop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "I Gotta Feeling",
+        "singer": "The Black Eyed Peas",
+        "year": 2009,
+        "genre": "Pop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Shake It Off",
+        "singer": "Taylor Swift",
+        "year": 2014,
+        "genre": "Pop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Party Rock Anthem",
+        "singer": "LMFAO",
+        "year": 2011,
+        "genre": "Electro House",
+        "emotion": "amusement"
+    },
+    {
+        "title": "I Like to Move It",
+        "singer": "Reel 2 Real ft. The Mad Stuntman",
+        "year": 1993,
+        "genre": "House",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Hey Ya!",
+        "singer": "Outkast",
+        "year": 2003,
+        "genre": "Hip Hop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Move Your Feet",
+        "singer": "Junior Senior",
+        "year": 2002,
+        "genre": "Dance-pop",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Crazy in Love",
+        "singer": "Beyoncé ft. Jay-Z",
+        "year": 2003,
+        "genre": "R&B",
+        "emotion": "amusement"
+    },
+    {
+        "title": "Imagine",
+        "singer": "John Lennon",
+        "year": 1971,
+        "genre": "Rock",
+        "emotion": "admiration"
+    },
+    {
+        "title": "Bohemian Rhapsody",
+        "singer": "Queen",
+        "year": 1975,
+        "genre": "Rock",
+        "emotion": "admiration"
+    },
+    {
+        "title": "Ain't No Mountain High Enough",
+        "singer": "Marvin Gaye & Tammi Terrell",
+        "year": 1967,
+        "genre": "Soul",
+        "emotion": "admiration"
+    },
+    {
+        "title": "I Will Always Love You",
+        "singer": "Whitney Houston",
+        "year": 1992,
+        "genre": "R&B",
+        "emotion": "admiration"
+    },
+    {
+        "title": "What a Wonderful World",
+        "singer": "Louis Armstrong",
+        "year": 1967,
+        "genre": "Jazz",
+        "emotion": [
+            "admiration"
+        ]
+    },
+    {
+        "title": "Somewhere Over the Rainbow",
+        "singer": "Israel Kamakawiwo'ole",
+        "year": 1993,
+        "genre": "Hawaiian",
+        "emotion": "admiration"
+    },
+    {
+        "title": "Hallelujah",
+        "singer": "Jeff Buckley",
+        "year": 1994,
+        "genre": "Folk Rock",
+        "emotion": "admiration"
+    },
+    {
+        "title": "Heroes",
+        "singer": "David Bowie",
+        "year": 1977,
+        "genre": "Rock",
+        "emotion": "admiration"
+    },
+    {
+        "title": "Stand by Me",
+        "singer": "Ben E. King",
+        "year": 1961,
+        "genre": "R&B",
+        "emotion": "admiration"
+    },
+    {
+        "title": "The Sound of Silence",
+        "singer": "Simon & Garfunkel",
+        "year": 1964,
+        "genre": "Folk Rock",
+        "emotion": "admiration"
+    }
+]

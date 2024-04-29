@@ -1,0 +1,2812 @@
+[
+    {
+        "movie_title": "The Shawshank Redemption",
+        "imdb_rating": 9.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Godfather",
+        "imdb_rating": 9.2,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1972
+    },
+    {
+        "movie_title": "The Dark Knight",
+        "imdb_rating": 9.0,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "The Matrix",
+        "imdb_rating": 8.7,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Gladiator",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Saving Private Ryan",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "admiration",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Deadpool",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Superbad",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The Hangover",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Monty Python and the Holy Grail",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Fantasy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 1975
+    },
+    {
+        "movie_title": "Shaun of the Dead",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Anchorman: The Legend of Ron Burgundy",
+        "imdb_rating": 7.2,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Napoleon Dynamite",
+        "imdb_rating": 6.9,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "The Grand Budapest Hotel",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Zombieland",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Horror"
+        ],
+        "emotion": "amusement",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Falling Down",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "12 Angry Men",
+        "imdb_rating": 9.0,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1957
+    },
+    {
+        "movie_title": "Do the Right Thing",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1989
+    },
+    {
+        "movie_title": "Taxi Driver",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1976
+    },
+    {
+        "movie_title": "Network",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1976
+    },
+    {
+        "movie_title": "The Social Network",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Dead Man Walking",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "American History X",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "There Will Be Blood",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "anger",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "Raging Bull",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "emotion": "anger",
+        "year_of_release": 1980
+    },
+    {
+        "movie_title": "Office Space",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "The Social Network",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "No Country for Old Men",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "Whiplash",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Music"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "American Psycho",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "The Devil Wears Prada",
+        "imdb_rating": 6.9,
+        "genre": [
+            "Comedy",
+            "Drama"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Fight Club",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "anger Management",
+        "imdb_rating": 6.2,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "The Truman Show",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "The Wolf of Wall Street",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "annoyance",
+        "year_of_release": 2013
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "imdb_rating": 9.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Godfather",
+        "imdb_rating": 9.2,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1972
+    },
+    {
+        "movie_title": "The Dark Knight",
+        "imdb_rating": 9.0,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "imdb_rating": 9.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Inception",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "approval",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Fight Club",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "approval",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "caring",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "Life is Beautiful",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "emotion": "caring",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "caring",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "caring",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Blind Side",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "emotion": "caring",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Good Will Hunting",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "caring",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "The Green Mile",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "emotion": "caring",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "The Help",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "caring",
+        "year_of_release": 2011
+    },
+    {
+        "movie_title": "A Beautiful Mind",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "caring",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Pay It Forward",
+        "imdb_rating": 7.2,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "caring",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Memento",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Inception",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "The Matrix",
+        "imdb_rating": 8.7,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Donnie Darko",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Mulholland Drive",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Fight Club",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Shutter Island",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "The Sixth Sense",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Interstellar",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "confusion",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Inception",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Interstellar",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Prestige",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Arrival",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Ex Machina",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Donnie Darko",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "The Matrix",
+        "imdb_rating": 8.7,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Blade Runner 2049",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Action",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "Primer",
+        "imdb_rating": 6.9,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "2001: A Space Odyssey",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "curiosity",
+        "year_of_release": 1968
+    },
+    {
+        "movie_title": "Titanic",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "The Notebook",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Casablanca",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "emotion": "desire",
+        "year_of_release": 1942
+    },
+    {
+        "movie_title": "Romeo + Juliet",
+        "imdb_rating": 6.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 1996
+    },
+    {
+        "movie_title": "pride & Prejudice",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2005
+    },
+    {
+        "movie_title": "The Shape of Water",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "Brokeback Mountain",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2005
+    },
+    {
+        "movie_title": "Atonement",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "Twilight",
+        "imdb_rating": 5.2,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Ghost",
+        "imdb_rating": 7.0,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Romance"
+        ],
+        "emotion": "desire",
+        "year_of_release": 1990
+    },
+    {
+        "movie_title": "The Last Airbender",
+        "imdb_rating": 4.0,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Family"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Batman v Superman: Dawn of Justice",
+        "imdb_rating": 6.4,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Suicide Squad",
+        "imdb_rating": 6.0,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "The Emoji Movie",
+        "imdb_rating": 3.3,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "Transformers: Revenge of the Fallen",
+        "imdb_rating": 6.0,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Fantastic Four",
+        "imdb_rating": 4.3,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2015
+    },
+    {
+        "movie_title": "Green Lantern",
+        "imdb_rating": 5.5,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2011
+    },
+    {
+        "movie_title": "The Twilight Saga: Breaking Dawn - Part 1",
+        "imdb_rating": 4.9,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2011
+    },
+    {
+        "movie_title": "Cats",
+        "imdb_rating": 2.7,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2019
+    },
+    {
+        "movie_title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "imdb_rating": 6.1,
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "emotion": "disappointment",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Se7en",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "American Psycho",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Requiem for a Dream",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Trainspotting",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1996
+    },
+    {
+        "movie_title": "Irreversible",
+        "imdb_rating": 7.4,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 2002
+    },
+    {
+        "movie_title": "Antichrist",
+        "imdb_rating": 6.6,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Salo, or the 120 Days of Sodom",
+        "imdb_rating": 5.9,
+        "genre": [
+            "Drama",
+            "Horror",
+            "War"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1975
+    },
+    {
+        "movie_title": "Pink Flamingos",
+        "imdb_rating": 6.1,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1972
+    },
+    {
+        "movie_title": "Cannibal Holocaust",
+        "imdb_rating": 5.9,
+        "genre": [
+            "Adventure",
+            "Horror"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1980
+    },
+    {
+        "movie_title": "A Clockwork Orange",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "disgust",
+        "year_of_release": 1971
+    },
+    {
+        "movie_title": "Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Superbad",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The 40-Year-Old Virgin",
+        "imdb_rating": 7.1,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2005
+    },
+    {
+        "movie_title": "American Pie",
+        "imdb_rating": 7.0,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "There's Something About Mary",
+        "imdb_rating": 7.1,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "Meet the Parents",
+        "imdb_rating": 7.0,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Dumb and Dumber",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Hangover",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Bruno",
+        "imdb_rating": 5.9,
+        "genre": [
+            "Comedy"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "White Chicks",
+        "imdb_rating": 5.6,
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "embarrassment",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Jurassic Park",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "The Avengers",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 2012
+    },
+    {
+        "movie_title": "Die Hard",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Action",
+            "Thriller"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 1988
+    },
+    {
+        "movie_title": "Indiana Jones and the Raiders of the Lost Ark",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Action",
+            "Adventure"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 1981
+    },
+    {
+        "movie_title": "Mad Max: Fury Road",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 2015
+    },
+    {
+        "movie_title": "Back to the Future",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Sci-Fi"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 1985
+    },
+    {
+        "movie_title": "The Dark Knight",
+        "imdb_rating": 9.0,
+        "genre": [
+            "Action",
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Gladiator",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Star Wars: Episode IV - A New Hope",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 1977
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Fellowship of the Ring",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "excitement",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "The Shining",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Drama",
+            "Horror"
+        ],
+        "emotion": "fear",
+        "year_of_release": 1980
+    },
+    {
+        "movie_title": "Psycho",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "fear",
+        "year_of_release": 1960
+    },
+    {
+        "movie_title": "Get Out",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "Hereditary",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2018
+    },
+    {
+        "movie_title": "A Quiet Place",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Sci-Fi"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2018
+    },
+    {
+        "movie_title": "The Exorcist",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Horror"
+        ],
+        "emotion": "fear",
+        "year_of_release": 1973
+    },
+    {
+        "movie_title": "Paranormal Activity",
+        "imdb_rating": 6.3,
+        "genre": [
+            "Horror",
+            "Mystery"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The Conjuring",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2013
+    },
+    {
+        "movie_title": "The Babadook",
+        "imdb_rating": 6.8,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "emotion": "fear",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Nightmare on Elm Street",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Horror"
+        ],
+        "emotion": "fear",
+        "year_of_release": 1984
+    },
+    {
+        "movie_title": "It's a Wonderful Life",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Drama",
+            "Family",
+            "Fantasy"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1946
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "To Kill a Mockingbird",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1962
+    },
+    {
+        "movie_title": "Life is Beautiful",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "Good Will Hunting",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Dead Poets Society",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1989
+    },
+    {
+        "movie_title": "The Green Mile",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Sully",
+        "imdb_rating": 7.4,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Miracle",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "gratitude",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "grief",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "The Pianist",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2002
+    },
+    {
+        "movie_title": "Manchester by the Sea",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Atonement",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The lovely Bones",
+        "imdb_rating": 6.7,
+        "genre": [
+            "Drama",
+            "Fantasy",
+            "Thriller"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Grave of the Fireflies",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "emotion": "grief",
+        "year_of_release": 1988
+    },
+    {
+        "movie_title": "Philadelphia",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "grief",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "Million Dollar Baby",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "My Girl",
+        "imdb_rating": 6.9,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Family"
+        ],
+        "emotion": "grief",
+        "year_of_release": 1991
+    },
+    {
+        "movie_title": "Requiem for a Dream",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "grief",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Inside Out",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2015
+    },
+    {
+        "movie_title": "Toy Story",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "joy",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "The Princess Bride",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "emotion": "joy",
+        "year_of_release": 1987
+    },
+    {
+        "movie_title": "Amélie",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Singin' in the Rain",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Comedy",
+            "Musical",
+            "Romance"
+        ],
+        "emotion": "joy",
+        "year_of_release": 1952
+    },
+    {
+        "movie_title": "Finding Nemo",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "The Lego Movie",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "WALL-E",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Family"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Ratatouille",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The Grand Budapest Hotel",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "joy",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Notebook",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "pride and Prejudice",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 2005
+    },
+    {
+        "movie_title": "Titanic",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "La La Land",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Music"
+        ],
+        "emotion": "love",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Casablanca",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "emotion": "love",
+        "year_of_release": 1942
+    },
+    {
+        "movie_title": "Before Sunrise",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "love",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "500 Days of Summer",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Romeo + Juliet",
+        "imdb_rating": 6.7,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "love",
+        "year_of_release": 1996
+    },
+    {
+        "movie_title": "Her",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "love",
+        "year_of_release": 2013
+    },
+    {
+        "movie_title": "The Silence of the Lambs",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 1991
+    },
+    {
+        "movie_title": "Se7en",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "Psycho",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 1960
+    },
+    {
+        "movie_title": "The Sixth Sense",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Black Swan",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Get Out",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "The Others",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Shutter Island",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Don't Breathe",
+        "imdb_rating": 7.1,
+        "genre": [
+            "Crime",
+            "Horror",
+            "Thriller"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "The Babadook",
+        "imdb_rating": 6.8,
+        "genre": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "emotion": "nervousness",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Truman Show",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "Lost in Translation",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Her",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2013
+    },
+    {
+        "movie_title": "The Grand Budapest Hotel",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Adventure",
+            "Comedy",
+            "Crime"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Before Sunrise",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "Amélie",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Comedy",
+            "Romance"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Moonlight",
+        "imdb_rating": 7.4,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Boyhood",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Florida Project",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "neutral",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "imdb_rating": 9.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "Up",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2009
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Intouchables",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2011
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "Rocky",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Sport"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 1976
+    },
+    {
+        "movie_title": "Finding Nemo",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "The Martian",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2015
+    },
+    {
+        "movie_title": "Wonder",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Drama",
+            "Family"
+        ],
+        "emotion": "optimism",
+        "year_of_release": 2017
+    },
+    {
+        "movie_title": "Braveheart",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "pride",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "Gladiator",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "pride",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "Gandhi",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "pride",
+        "year_of_release": 1982
+    },
+    {
+        "movie_title": "The King's Speech",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Hidden Figures",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Selma",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Remember the Titans",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Sport"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "A Beautiful Mind",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "The Imitation Game",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Thriller"
+        ],
+        "emotion": "pride",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Matrix",
+        "imdb_rating": 8.7,
+        "genre": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "emotion": "realization",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Inception",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "The Truman Show",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "realization",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "The Sixth Sense",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "realization",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Fight Club",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "realization",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Memento",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "Shutter Island",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "The Others",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Arrival",
+        "imdb_rating": 7.9,
+        "genre": [
+            "Drama",
+            "Sci-Fi",
+            "Thriller"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "The Prestige",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "emotion": "realization",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "The Shawshank Redemption",
+        "imdb_rating": 9.3,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "The Lord of the Rings: The Return of the King",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "emotion": "relief",
+        "year_of_release": 2003
+    },
+    {
+        "movie_title": "Forrest Gump",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1994
+    },
+    {
+        "movie_title": "Life is Beautiful",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "Toy Story",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "The Pursuit of Happyness",
+        "imdb_rating": 8.0,
+        "genre": [
+            "Biography",
+            "Drama"
+        ],
+        "emotion": "relief",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "The Truman Show",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1998
+    },
+    {
+        "movie_title": "The Intouchables",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "emotion": "relief",
+        "year_of_release": 2011
+    },
+    {
+        "movie_title": "The Green Mile",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Fantasy"
+        ],
+        "emotion": "relief",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Harry Potter and the Philosopher's Stone",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Adventure",
+            "Family",
+            "Fantasy"
+        ],
+        "emotion": "relief",
+        "year_of_release": 2001
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "12 Years a Slave",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2013
+    },
+    {
+        "movie_title": "Hotel Rwanda",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "The Kite Runner",
+        "imdb_rating": 7.5,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The Boy in the Striped Pyjamas",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "War"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "Atonement",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Romance"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "The Reader",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2008
+    },
+    {
+        "movie_title": "The Pianist",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Biography",
+            "Drama",
+            "Music"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2002
+    },
+    {
+        "movie_title": "City of God",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Crime",
+            "Drama"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2002
+    },
+    {
+        "movie_title": "Irreversible",
+        "imdb_rating": 7.4,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "emotion": "remorse",
+        "year_of_release": 2002
+    },
+    {
+        "movie_title": "Titanic",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "Life is Beautiful",
+        "imdb_rating": 8.6,
+        "genre": [
+            "Comedy",
+            "Drama",
+            "War"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 1997
+    },
+    {
+        "movie_title": "The Fault in Our Stars",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "Atonement",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 2007
+    },
+    {
+        "movie_title": "Schindler's List",
+        "imdb_rating": 8.9,
+        "genre": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 1993
+    },
+    {
+        "movie_title": "Manchester by the Sea",
+        "imdb_rating": 7.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 2016
+    },
+    {
+        "movie_title": "Eternal Sunshine of the Spotless Mind",
+        "imdb_rating": 8.3,
+        "genre": [
+            "Drama",
+            "Romance",
+            "Sci-Fi"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 2004
+    },
+    {
+        "movie_title": "Old Yeller",
+        "imdb_rating": 7.3,
+        "genre": [
+            "Drama",
+            "Family",
+            "Western"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 1957
+    },
+    {
+        "movie_title": "Brokeback Mountain",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Drama",
+            "Romance"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 2005
+    },
+    {
+        "movie_title": "Grave of the Fireflies",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Animation",
+            "Drama",
+            "War"
+        ],
+        "emotion": "sadness",
+        "year_of_release": 1988
+    },
+    {
+        "movie_title": "The Usual Suspects",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Crime",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 1995
+    },
+    {
+        "movie_title": "Memento",
+        "imdb_rating": 8.4,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2000
+    },
+    {
+        "movie_title": "The Sixth Sense",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Shutter Island",
+        "imdb_rating": 8.2,
+        "genre": [
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "Primal fear",
+        "imdb_rating": 7.7,
+        "genre": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 1996
+    },
+    {
+        "movie_title": "Fight Club",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Drama"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 1999
+    },
+    {
+        "movie_title": "Gone Girl",
+        "imdb_rating": 8.1,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2014
+    },
+    {
+        "movie_title": "The Prestige",
+        "imdb_rating": 8.5,
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2006
+    },
+    {
+        "movie_title": "Inception",
+        "imdb_rating": 8.8,
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2010
+    },
+    {
+        "movie_title": "The Others",
+        "imdb_rating": 7.6,
+        "genre": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "emotion": "surprise",
+        "year_of_release": 2001
+    }
+]

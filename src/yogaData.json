@@ -1,0 +1,231 @@
+[
+    {
+      "Yoga": "Deep breathing exercises (pranayama)",
+      "Description": "Pranayama involves controlled breathing techniques to calm the mind and body, promoting relaxation and reducing stress.",
+      "Video": "https://youtu.be/uNmKzlh55Fo?si=G5lCb9ZHULK0O1IS",
+      "emotion":"anger"
+    },
+    {
+      "Yoga": "Cooling yoga poses like Forward Fold (Uttanasana) or Child's Pose (Balasana)",
+      "Description": "These poses are designed to release tension in the body and calm the nervous system, promoting a sense of relaxation and peace.",
+      "Video": "https://youtu.be/HXOxs7ADii8?si=9XrGAjOg3A-61njW",
+      "emotion":"anger"
+    },
+    {
+      "Meditation": "Meditation on compassion (metta meditation)",
+      "Description": "Metta meditation, also known as loving-kindness meditation, involves directing feelings of love, compassion, and goodwill towards oneself and others, fostering a sense of connection and empathy.",
+      "Video": "https://youtu.be/sDi40FQcaIU?si=yxFs4oXquAbD9Y4H",
+      "emotion":"anger"
+    },
+    {
+      "Yoga": "Heart-opening yoga poses like Bridge Pose (Setu Bandhasana)",
+      "Description": "Bridge Pose, or Setu Bandhasana, is a heart-opening yoga pose that stretches the chest and shoulders, promotes emotional release, and increases energy flow throughout the body. It fosters feelings of openness, love, and connection.",
+      "Video": "https://youtu.be/YhRyjurt1SM?si=rh7vgSb99OIMvbEQ",
+      "emotion":"sadness"
+    },
+    {
+      "Yoga": "Gentle backbends to uplift the mood such as Cobra Pose (Bhujangasana)",
+      "Description": "Cobra Pose, or Bhujangasana, is a gentle backbend that stretches the spine, opens the heart, and uplifts the mood. It promotes feelings of vitality, confidence, and emotional well-being.",
+      "Video": "https://youtu.be/fOdrW7nf9gw?si=v1gJZFfOXemR6PKR",
+      "emotion":"sadness"
+    },
+    {
+      "Meditation": "Mindfulness meditation to acknowledge and accept sadness without judgment",
+      "Description": "Mindfulness meditation involves observing and accepting feelings of sadness without judgment or resistance. It fosters self-awareness, emotional resilience, and inner peace.",
+      "Video": "https://youtu.be/rrXmjeUdzeM?si=T39eV9jM047i18L2",
+      "emotion":"sadness"
+    },
+    {
+      "Meditation": "Loving-kindness meditation (Metta) to cultivate compassion towards oneself and others",
+      "Description": "Loving-kindness meditation, or Metta, involves generating feelings of love, compassion, and goodwill towards oneself and others. It cultivates a sense of interconnectedness, empathy, and emotional well-being.",
+      "Video": "https://youtu.be/sDi40FQcaIU?si=YFdJ0E1Y0GEWtVD1",
+      "emotion":"sadness"
+    },
+    {
+      "Yoga": "Yoga poses for self-compassion and forgiveness like Child's Pose (Balasana)",
+      "Description": "Child's Pose, or Balasana, is a nurturing yoga pose that promotes self-compassion and relaxation. It helps to release tension in the back and shoulders, and fosters a sense of comfort and acceptance.",
+      "Video": "https://youtu.be/2MJGg-dUKh0?si=K3KglT1iPvDC2sNw",
+      "emotion":"remorse"
+    },
+    {
+      "Yoga": "Heart-opening poses to foster acceptance and release such as Fish Pose (Matsyasana)",
+      "Description": "Fish Pose, or Matsyasana, is a heart-opening yoga pose that promotes acceptance and release. It stretches the chest, throat, and abdomen, and encourages an open heart and mind.",
+      "Video": "https://youtu.be/rWwR9FFyzNQ?si=WGPf3TnAqZh0RmCc",
+      "emotion":"remorse"
+    },
+    {
+      "Meditation": "Self-forgiveness meditation to cultivate compassion towards oneself",
+      "Description": "Self-forgiveness meditation involves cultivating feelings of compassion and understanding towards oneself, releasing self-judgment and guilt, and fostering inner peace and healing.",
+      "Video": "https://youtu.be/XkkxNN4SSO4?si=2H9BO8qfnGE3NiO3",
+      "emotion":"remorse"
+    },
+    {
+      "Meditation": "Mindfulness meditation on accepting past actions and fostering growth",
+      "Description": "Mindfulness meditation involves accepting past actions and experiences without judgment or attachment, and using them as opportunities for growth, learning, and personal development.",
+      "Video": "https://youtu.be/2DXqMBXmP8Q?si=8HLVo0ZT8YxAKVmI",
+      "emotion":"remorse"
+    },
+    {
+      "Yoga": "Grounding yoga poses like Mountain Pose (Tadasana)",
+      "Description": "Mountain Pose, or Tadasana, is a grounding yoga pose that promotes stability and mindfulness. It helps to establish a strong foundation, improve posture, and cultivate a sense of presence and strength.",
+      "Video": "https://youtu.be/rPJJIacKWsk?si=tOVr4gWU7dMxOT3m",
+      "emotion":"nervousness"
+    },
+    {
+      "Yoga": "Gentle forward bends to calm the nervous system such as Standing Forward Bend (Uttanasana)",
+      "Description": "Standing Forward Bend, or Uttanasana, is a calming yoga pose that promotes relaxation and stretches the entire back body. It helps to relieve tension in the spine, calm the mind, and soothe the nervous system.",
+      "Video": "https://youtu.be/HXOxs7ADii8?si=8FVMz5Iou9UpKfn3",
+      "emotion":"nervousness"
+    },
+    {
+      "Meditation": "Deep breathing exercises to slow down and relax the body",
+      "Description": "Deep breathing exercises involve taking slow, intentional breaths to activate the body's relaxation response. This practice helps to reduce stress, calm the mind, and promote a sense of peace and well-being.",
+      "Video": "https://youtu.be/DbDoBzGY3vo?si=1tdAf2ElpNBXG3Uv",
+      "emotion":"nervousness"
+    },
+    {
+      "Meditation": "Body-scan meditation to release tension and promote relaxation",
+      "Description": "Body-scan meditation involves systematically bringing attention to different parts of the body, releasing tension and promoting relaxation. It helps to cultivate awareness, reduce stress, and enhance mind-body connection.",
+      "Video": "https://youtu.be/9B_NSBWGYCw?si=b0eUuN_59VJMQETk",
+      "emotion":"nervousness"
+    },
+    {
+      "Yoga": "Gentle yoga poses for emotional release like Child's Pose (Balasana)",
+      "Description": "Child's Pose, or Balasana, is a gentle yoga pose that promotes relaxation and emotional release. It helps to calm the mind, release tension in the body, and foster a sense of comfort and security.",
+      "Video": "https://youtu.be/2MJGg-dUKh0?si=1SaAYzNhV05e5lJG",
+      "emotion":"grief"
+    },
+    {
+      "Meditation": "Mindfulness meditation on impermanence",
+      "Description": "Mindfulness meditation on impermanence involves reflecting on the transient nature of life and phenomena. It fosters acceptance, resilience, and a deeper appreciation for the present moment.",
+      "Video": "https://youtu.be/0IWzEX6NitI?si=UQp4b9x4Opfo3dx8",
+      "emotion":"grief"
+    },
+    {
+      "Meditation": "Breathing techniques for soothing and calming",
+      "Description": "Breathing techniques such as deep belly breathing or diaphragmatic breathing can help to soothe and calm the nervous system, promoting relaxation and stress relief.",
+      "Video": "https://youtu.be/LiUnFJ8P4gM?si=mo5y1DD1tOW4fXO0",
+      "emotion":"grief"
+    },
+    {
+      "Yoga": "Grounding yoga poses like Mountain Pose (Tadasana)",
+      "Description": "Mountain Pose, or Tadasana, is a foundational yoga pose that helps to ground and stabilize the body and mind. It promotes strength, balance, and a sense of rootedness.",
+      "Video": "https://youtu.be/rPJJIacKWsk?si=tOVr4gWU7dMxOT3m",
+      "emotion":"fear"
+    },
+    {
+      "Yoga": "Breathing techniques such as Alternate Nostril Breathing (Nadi Shodhana)",
+      "Description": "Alternate Nostril Breathing, or Nadi Shodhana, is a yogic breathing technique that helps to balance the flow of energy in the body and calm the mind. It promotes relaxation, clarity, and focus.",
+      "Video": "https://youtu.be/l11qFpRqhIQ?si=VhIhmvQXd69zgd_W",
+      "emotion":"fear"
+    },
+    {
+      "Meditation": "Mindfulness meditation focusing on the present moment",
+      "Description": "Mindfulness meditation involves paying attention to the present moment with openness and acceptance, without judgment or attachment. It cultivates awareness, presence, and inner peace.",
+      "Video": "https://youtu.be/IoblMfQY9i0?si=DP0J9Ualellrf5JF",
+      "emotion":"fear"
+    },
+    {
+      "Yoga": "Grounding yoga poses to center oneself like Tree Pose (Vrksasana)",
+      "Description": "Tree Pose, or Vrksasana, is a balancing yoga pose that helps to ground and center the body and mind. It promotes stability, focus, and a sense of rootedness.",
+      "Video": "https://youtu.be/NKhkIS0bwSU?si=gfIFE0ff-oR9qbhM",
+      "emotion":"embarrassment"
+    },
+    {
+      "Meditation": "Self-compassion meditation",
+      "Description": "Self-compassion meditation involves cultivating feelings of kindness, understanding, and acceptance towards oneself. It promotes emotional healing, resilience, and inner peace.",
+      "Video": "https://youtu.be/XkkxNN4SSO4?si=BsEDaePDUEfwKCuv",
+      "emotion":"embarrassment"
+    },
+    {
+      "Meditation": "Breathing exercises to calm the nervous system",
+      "Description": "Breathing exercises such as deep diaphragmatic breathing or alternate nostril breathing can help to calm the nervous system, reduce stress, and promote relaxation.",
+      "Video": "https://youtu.be/2YCP9N1CRdc?si=M9f-Ci2Qyo5_nRwC",
+      "emotion":"embarrassment"
+    },
+    {
+      "Yoga": "Purifying breathing techniques like Kapalabhati",
+      "Description": "Kapalabhati is a powerful breathing technique that cleanses the respiratory system and energizes the body. It involves forceful exhalations followed by passive inhalations, promoting detoxification and vitality.",
+      "Video": "https://youtu.be/WOw55qnKBSo?si=tUcPX62I2LN_Cj8f",
+      "emotion":"disgust"
+    },
+    {
+      "Yoga": "Yoga poses for detoxification like Twisting Poses (Bharadvajasana)",
+      "Description": "Twisting yoga poses like Bharadvajasana help to massage and stimulate the internal organs, promoting detoxification and digestion. They also release tension in the spine and promote relaxation.",
+      "Video": "https://youtu.be/GpGtitqklq8?si=acuPQWsu0RuBxkwW",
+      "emotion":"disgust"
+    },
+    {
+      "Meditation": "Meditation on acceptance and non-judgment",
+      "Description": "This meditation practice involves cultivating a mindset of acceptance and non-judgment towards oneself and others. It promotes inner peace, compassion, and emotional balance.",
+      "Video": "https://youtu.be/J0y4x0ak5EI?si=vDzWxybu6oblwxVW",
+      "emotion":"disgust"
+    },
+    {
+      "Yoga": "Heart-opening yoga poses like Bridge Pose (Setu Bandhasana)",
+      "Description": "Bridge Pose, or Setu Bandhasana, stretches the chest and spine, opening the heart center. It promotes feelings of expansion, release, and emotional balance.",
+      "Video": "https://youtu.be/0UOsDyM4UqA?si=4u5B9ii-208IE9_6",
+      "emotion":"disappointment"
+    },
+    {
+      "Yoga": "Gentle backbends to uplift the mood such as Cobra Pose (Bhujangasana)",
+      "Description": "Cobra Pose, or Bhujangasana, gently stretches the spine and chest, lifting the mood and energizing the body. It promotes a sense of openness, vitality, and positivity.",
+      "Video": "https://youtu.be/fOdrW7nf9gw?si=8Okf6pKL8EGCu55D",
+      "emotion":"disappointment"
+    },
+    {
+      "Meditation": "Mindfulness meditation to acknowledge and accept disappointment without dwelling",
+      "Description": "Mindfulness meditation involves observing disappointment without getting caught up in negative thoughts or emotions. It fosters acceptance, resilience, and inner peace.",
+      "Video": "https://youtu.be/3YuOMmxbc9M?si=GA7PLP4h5Fw7bohE",
+      "emotion":"disappointment"
+    },
+    {
+      "Meditation": "Gratitude meditation to shift focus towards positive aspects of life",
+      "Description": "Gratitude meditation involves reflecting on the blessings and positive aspects of life, shifting focus away from disappointment towards appreciation and abundance.",
+      "Video": "https://youtu.be/l0EtNASgShc?si=9Wo_GBC1kdRC1PWH",
+      "emotion":"disappointment"
+    },
+    {
+      "Yoga": "Grounding yoga poses like Mountain Pose (Tadasana)",
+      "Description": "Mountain Pose, or Tadasana, is a foundational yoga pose that promotes stability, strength, and grounding. It helps to connect with the earth and establish a sense of rootedness.",
+      "Video": "https://youtu.be/rPJJIacKWsk?si=tOVr4gWU7dMxOT3m",
+      "emotion":"confusion"
+    },
+    {
+      "Yoga": "Balancing poses to focus the mind like Tree Pose (Vrksasana)",
+      "Description": "Tree Pose, or Vrksasana, is a balancing yoga pose that improves focus, concentration, and mental clarity. It encourages steadiness and balance in both body and mind.",
+      "Video": "https://youtu.be/NKhkIS0bwSU?si=gfIFE0ff-oR9qbhM",
+      "emotion":"confusion"
+    },
+    {
+      "Meditation": "Mindfulness meditation to observe and accept confusion without judgment",
+      "Description": "Mindfulness meditation involves paying attention to the present moment with openness and acceptance, allowing confusion to arise without judgment. This practice promotes clarity and insight.",
+      "Video": "https://youtu.be/rrXmjeUdzeM?si=yoTQnWINtUpdfvU-",
+      "emotion":"confusion"
+    },
+    {
+      "Meditation": "Breathing exercises for clarity and focus",
+      "Description": "Breathing exercises such as deep diaphragmatic breathing or alternate nostril breathing can help to clear the mind, increase oxygen flow, and enhance mental clarity and focus.",
+      "Video": "https://youtu.be/A4vEhSDk8QI?si=yvaQjFLqoo4pxgDQ",
+      "emotion":"confusion"
+    },
+    {
+      "Yoga": "Mindful breathing exercises",
+      "Description": "Mindful breathing exercises involve paying close attention to the breath, focusing on the sensation of each inhale and exhale. This practice promotes relaxation, stress reduction, and increased mindfulness.",
+      "Video": "https://youtu.be/enJyOTvEn4M?si=8AyXUqWv-le2s5SY",
+      "emotion":"annoyance"
+    },
+    {
+      "Yoga": "Yoga poses for relaxation like Corpse Pose (Savasana)",
+      "Description": "Corpse Pose, or Savasana, is a deeply relaxing yoga pose that allows the body and mind to rest completely. It promotes deep relaxation, stress relief, and rejuvenation.",
+      "Video": "https://youtu.be/nF4WqMRbfdI?si=Sv8jHQUgYHrxcUjl",
+      "emotion":"annoyance"
+    },
+    {
+      "Meditation": "Meditation on patience",
+      "Description": "Meditation on patience involves cultivating a calm and accepting attitude towards challenges and difficulties. It encourages a sense of inner peace, resilience, and acceptance.",
+      "Video": "https://youtu.be/MZa9ypqoO6M?si=h6JNE6YJz5Ql8XB_",
+      "emotion":"annoyance"
+    }
+  
+  ]

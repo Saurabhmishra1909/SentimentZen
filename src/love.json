@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Tum Hi Ho",
+    "singer": "Arijit Singh",
+    "emotion": "love"
+  },
+  {
+    "title": "Perfect",
+    "singer": "Ed Sheeran",
+    "emotion": "love"
+  },
+  {
+    "title": "I Will Always Love You",
+    "singer": "Whitney Houston",
+    "emotion": "love"
+  },
+  {
+    "title": "Can't Help Falling in Love",
+    "singer": "Elvis Presley",
+    "emotion": "love"
+  },
+  {
+    "title": "Unchained Melody",
+    "singer": "The Righteous Brothers",
+    "emotion": "love"
+  },
+  {
+    "title": "All of Me",
+    "singer": "John Legend",
+    "emotion": "love"
+  },
+  {
+    "title": "Make You Feel My Love",
+    "singer": "Adele",
+    "emotion": "love"
+  },
+  {
+    "title": "My Heart Will Go On",
+    "singer": "Celine Dion",
+    "emotion": "love"
+  },
+  {
+    "title": "I Don't Want to Miss a Thing",
+    "singer": "Aerosmith",
+    "emotion": "love"
+  },
+  {
+    "title": "At Last",
+    "singer": "Etta James",
+    "emotion": "love"
+  }
+]
